@@ -1,5 +1,6 @@
 {
   "name": "acceptance",
+  "homepage": "https://github.com/abhishekchauhan8/acceptance",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
